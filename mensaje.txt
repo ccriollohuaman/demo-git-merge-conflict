@@ -4,5 +4,5 @@ adiós venus
 línea1
 línea2
 
-línea10
-línea20
+líneax
+líneay
