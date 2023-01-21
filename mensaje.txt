@@ -1,0 +1,8 @@
+hola mundo
+adiós saturno
+
+línea1
+línea2
+
+línea10
+línea20
